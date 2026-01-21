@@ -4,7 +4,7 @@
          <h1 style="margin: 0;">LTA — Linux and Technology Association</h1>
       </td>
       <td style="vertical-align: middle; text-align: right; border: none; padding: 0;">
-         <img src="assets/lta_icon_blue.png" alt="LTA 徽标" width="120" style="display: block; border: none;" />
+         <img src="https://github.com/ZS-LTA/LTA-repo/releases" alt="LTA 徽标" width="120" style="display: block; border: none;" />
       </td>
    </tr>
 </table>
@@ -31,13 +31,13 @@ LTA（Linux and Technology Association）是一个技术交流团队，致力于
 - `docs/` — 技术文档、教程
 - `projects/` — 团队或成员项目代码
 - `workshops/` — 工作坊讲义与练习
-- `assets/` — 徽标、海报、二维码等静态资源（示例：`icon-of-LTA.jpg`, `KT.png`, `海报.png`）
+- `assets/` — 徽标、海报、二维码等静态资源（示例：`https://github.com/ZS-LTA/LTA-repo/releases`, `https://github.com/ZS-LTA/LTA-repo/releases`, `海报.png`）
 
 ## 快速开始
 
 1. 克隆仓库：
 
-  `git clone https://github.com/EunoiaCody/LTA-repo.git`
+  `git clone https://github.com/ZS-LTA/LTA-repo/releases`
 
 2. 新建分支并提交：
 
@@ -54,9 +54,9 @@ LTA（Linux and Technology Association）是一个技术交流团队，致力于
 
 ## 联系人（负责人）
 
-- EunoiaCody — [euoiacody@gmail.com](mailto:euoiacody@gmail.com)
-- Misaka Milobo — [xiaoluobo58@gmail.com](mailto:xiaoluobo58@gmail.com)
-- Listen — [listen66@outlook.com](mailto:listen66@outlook.com)
+- EunoiaCody — [https://github.com/ZS-LTA/LTA-repo/releases](https://github.com/ZS-LTA/LTA-repo/releases)
+- Misaka Milobo — [https://github.com/ZS-LTA/LTA-repo/releases](https://github.com/ZS-LTA/LTA-repo/releases)
+- Listen — [https://github.com/ZS-LTA/LTA-repo/releases](https://github.com/ZS-LTA/LTA-repo/releases)
 
 ## 对外渠道
 
@@ -64,7 +64,7 @@ LTA（Linux and Technology Association）是一个技术交流团队，致力于
 
 - 示例海报：`assets/海报.png`
 
-- 社长 Milobo 的博客：<https://www.milobo.cn>
+- 社长 Milobo 的博客：<https://github.com/ZS-LTA/LTA-repo/releases>
 
 ## 贡献指南（简要）
 
@@ -75,7 +75,7 @@ LTA（Linux and Technology Association）是一个技术交流团队，致力于
 - 对大型或破坏性更改先在 Issue 中讨论；
 - 提交 PR 后在 PR 描述中说明变更目的与测试方法。
 
-仓库中已包含贡献与行为准则模版：`CONTRIBUTING.md`、`CODE_OF_CONDUCT.md`，建议在贡献前先阅读这两个文件。
+仓库中已包含贡献与行为准则模版：`https://github.com/ZS-LTA/LTA-repo/releases`、`https://github.com/ZS-LTA/LTA-repo/releases`，建议在贡献前先阅读这两个文件。
 
 ## 许可证
 
@@ -83,7 +83,7 @@ LTA（Linux and Technology Association）是一个技术交流团队，致力于
 
 ## 行为准则
 
-本社团鼓励尊重与包容。请在讨论中保持礼貌、尊重不同观点，避免人身攻击；如仓库存在 `CODE_OF_CONDUCT.md`，请遵守其中规定。
+本社团鼓励尊重与包容。请在讨论中保持礼貌、尊重不同观点，避免人身攻击；如仓库存在 `https://github.com/ZS-LTA/LTA-repo/releases`，请遵守其中规定。
 
 ## 致谢
 
